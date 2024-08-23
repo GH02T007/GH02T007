@@ -1,4 +1,4 @@
-- ### Hi, what's up? I'm Rafael ### 👋
+- ### Hi, what's up? I'm Rafael  👋
 - I'm a school student taking a technology course 👀
 - I'm studying robotics, games and software development learning ...
 - I want to work in the field of technology, developing games, applications and software.💞️
